@@ -11,3 +11,6 @@ Open `DSA(6th-13th June)_25/`. The `searching` folder includes search-insert pos
 Open the desired Java file in a JDK-enabled IDE. Run a class with a `main` method directly. For solution-only classes such as `problem88`, call the solution method from a small driver with sample arrays.
 
 `problem35.java` needs a correction before it compiles: its static `main` calls the instance method `searchInsert` without creating an instance.
+
+
+June , 2026 - srdt dsa training
